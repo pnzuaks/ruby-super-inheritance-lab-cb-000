@@ -6,7 +6,8 @@ class ChattyStudent < Student
   end
   
   def raise_hand()
-    def
+   do 
+    raise_hand()
     
   end
 end
